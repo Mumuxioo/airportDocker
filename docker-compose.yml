@@ -2,7 +2,7 @@ version: '3'
 
 services:
   trojan:
-      build: xiawang1024/trojan:five
+      image: xiawang1024/trojan:five
       ports:
         - "443:443"
       volumes:
