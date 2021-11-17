@@ -1,10 +1,10 @@
-kx.kathy.digital:80 {
+ll.kathy.digital:80 {
     root /usr/src/trojan
     log /usr/src/caddy.log
     index index.html
 }
 
-kx.kathy.digital:443 {
+ll.kathy.digital:443 {
     root /usr/src/trojan
     log /usr/src/caddy.log
     index index.html
